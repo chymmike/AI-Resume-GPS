@@ -1,0 +1,23 @@
+# Dependencies
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# Personal data (do not commit your real data)
+data/master_profile.json
+data/experience_notes.md
+data/resume_*.json
+!data/resume_example*.json
+
+# Job applications database & generated output
+jobs/*/
+output/
+!output/.gitkeep
+!jobs/.gitkeep
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,132 @@
+{
+    "personal": {
+        "name_zh": "示範用",
+        "name_en": "Mike Chen",
+        "title": "Technical Product Manager | Data-Driven Decision Making | Startup Environments",
+        "summary": "Engineer-to-PM with 3+ years bridging product strategy and engineering execution in startup and high-scale environments, skilled in data analysis (SQL, Python) and cross-functional collaboration across design, engineering, and business teams. Shipped 15+ product features at early-stage SaaS startup (5K+ MAU) and internal tooling adopted by 200+ stakeholders at Stripe, with a track record of data-driven decision making backed by quantified outcomes. Transitioning focus from engineering execution to product ownership to leverage deep technical fluency in defining roadmaps and aligning go-to-market strategy.",
+        "location": "San Francisco, CA",
+        "email": "mikechen@example.com",
+        "phone": "+1 (415) 555-0192",
+        "website": "chymmike.com",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "https://github.com/chymmike"
+    },
+    "education": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "M.S. in Computer Science (Online)",
+            "period": "2022 – 2024",
+            "highlights": [
+                "Specialization in Computing Systems",
+                "GPA 3.9/4.0"
+            ]
+        },
+        {
+            "school": "University of California, Berkeley",
+            "degree": "B.S. in Computer Science",
+            "period": "2017 – 2021",
+            "highlights": [
+                "Dean's List",
+                "Teaching Assistant for CS 61B (Data Structures)"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Stripe",
+            "title": "Software Engineer (Product & Platform)",
+            "period": "2023/01 – Present",
+            "bullets": [
+                "Drove stakeholder communication and alignment by building a real-time transaction monitoring dashboard (React/TypeScript) adopted by 200+ engineers for incident response and data-driven decision making.",
+                "Led cross-functional product initiative to migrate billing infrastructure to event-driven architecture (Kafka/Go), reducing P99 latency by 40% and unblocking 3 downstream product teams.",
+                "Analyzed platform usage data to inform product roadmap priorities, maintaining 99.99% uptime SLA across 50K+ requests/sec payment pipeline.",
+                "Mentored 3 junior engineers through onboarding and collaborative code review, improving team velocity and knowledge sharing."
+            ],
+            "tags": [
+                "product",
+                "data-driven",
+                "cross-functional",
+                "payments"
+            ]
+        },
+        {
+            "company": "Shopify",
+            "title": "Software Engineer Intern (Analytics Platform)",
+            "period": "2022/05 – 2022/08",
+            "bullets": [
+                "Collaborated cross-functionally with product and design teams to define and ship A/B test features for checkout optimization, driving a 2.1% conversion rate increase with $50M+ GMV impact.",
+                "Analyzed merchant usage patterns to identify performance bottlenecks; implemented Redis caching strategy that reduced database load by 35% and dashboard load time from 2.4s to 0.8s.",
+                "Rebuilt merchant analytics API (REST → GraphQL) based on data-driven analysis of query patterns, improving performance 3x for 10K+ daily active merchants."
+            ],
+            "tags": [
+                "product-analytics",
+                "a-b-testing",
+                "data-driven",
+                "cross-functional"
+            ]
+        },
+        {
+            "company": "DataNova",
+            "title": "Full-Stack Developer (Technical Co-owner)",
+            "period": "2021/01 – 2022/04",
+            "bullets": [
+                "Co-owned product backlog and sprint planning with PM and design in a startup environment, shipping 15+ features over 12 months to grow platform from 0 to 5K+ monthly active users.",
+                "Defined API product strategy and roadmap for customer-facing analytics dashboard (Next.js/PostgreSQL), handling 10K+ daily API calls with <200ms response time SLA.",
+                "Drove go-to-market execution by reducing deployment cycle time from 45 min to 8 min via CI/CD pipeline, enabling weekly feature releases aligned with customer feedback cycles."
+            ],
+            "tags": [
+                "product-ownership",
+                "startup",
+                "roadmap",
+                "go-to-market"
+            ]
+        }
+    ],
+    "projects": {
+        "section_title": "Projects",
+        "items": [
+            {
+                "title": "httpbench (Open Source CLI Tool)",
+                "description": "Go-based HTTP benchmarking CLI with concurrent workers, latency histograms, and percentile reporting. 800+ GitHub stars."
+            },
+            {
+                "title": "MediSync (Hackathon — 1st Place, CalHacks 2021)",
+                "description": "Real-time patient triage system using WebSockets and ML-based priority scoring. Built in 36 hours with a team of 4."
+            }
+        ]
+    },
+    "skills": {
+        "Data Analysis & Product": [
+            "SQL",
+            "Python (pandas, numpy)",
+            "A/B Testing",
+            "Product Analytics",
+            "User Metrics",
+            "Agile/Scrum"
+        ],
+        "Cross-functional Collaboration": [
+            "Stakeholder Communication",
+            "Sprint Planning",
+            "Product Roadmapping",
+            "Technical Writing",
+            "Go-to-Market",
+            "Engineering–PM Bridge"
+        ],
+        "Engineering (Technical Fluency)": [
+            "TypeScript",
+            "Go",
+            "React",
+            "PostgreSQL",
+            "REST API Design",
+            "System Design"
+        ],
+        "Infrastructure": [
+            "AWS (ECS/Lambda/S3)",
+            "Docker",
+            "GitHub Actions",
+            "Kafka",
+            "Redis",
+            "Datadog"
+        ]
+    }
+}

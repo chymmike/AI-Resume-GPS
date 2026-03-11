@@ -1,0 +1,144 @@
+{
+    "personal": {
+        "name_zh": "示範用",
+        "name_en": "Mike Chen",
+        "title": "Full-Stack Software Engineer with 3+ years of experience in distributed systems and web applications.",
+        "location": "San Francisco, CA",
+        "email": "mikechen@example.com",
+        "phone": "+1 (415) 555-0192",
+        "website": "chymmike.com",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "https://github.com/chymmike"
+    },
+    "education": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "M.S. in Computer Science (Online)",
+            "period": "2022 – 2024",
+            "highlights": [
+                "Specialization in Computing Systems",
+                "GPA 3.9/4.0"
+            ]
+        },
+        {
+            "school": "University of California, Berkeley",
+            "degree": "B.S. in Computer Science",
+            "period": "2017 – 2021",
+            "highlights": [
+                "Dean's List",
+                "Teaching Assistant for CS 61B (Data Structures)"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Stripe",
+            "title": "Software Engineer",
+            "period": "2023/01 – Present",
+            "bullets": [
+                "Design and maintain payment processing microservices handling 50K+ requests/sec in Go, achieving 99.99% uptime SLA.",
+                "Led migration of a monolithic billing service to an event-driven architecture using Kafka, reducing P99 latency by 40%.",
+                "Built internal dashboard with React and TypeScript for real-time transaction monitoring, adopted by 200+ engineers.",
+                "Mentored 3 junior engineers through onboarding and code review processes."
+            ],
+            "tags": [
+                "backend",
+                "distributed-systems",
+                "payments",
+                "mentoring"
+            ]
+        },
+        {
+            "company": "Shopify",
+            "title": "Software Engineer Intern",
+            "period": "2022/05 – 2022/08",
+            "bullets": [
+                "Developed a GraphQL API layer for the merchant analytics platform, improving query performance by 3x over REST endpoints.",
+                "Implemented caching strategy with Redis that reduced database load by 35% during peak traffic periods.",
+                "Contributed to the checkout optimization team, shipping A/B test features that increased conversion rate by 2.1%."
+            ],
+            "tags": [
+                "fullstack",
+                "graphql",
+                "e-commerce",
+                "intern"
+            ]
+        },
+        {
+            "company": "DataNova",
+            "title": "Full-Stack Developer",
+            "period": "2021/01 – 2022/04",
+            "bullets": [
+                "Built a customer-facing SaaS dashboard from scratch using Next.js and PostgreSQL, serving 5K+ monthly active users.",
+                "Designed and implemented RESTful APIs with Node.js/Express, handling 10K+ daily API calls with <200ms response time.",
+                "Set up CI/CD pipelines with GitHub Actions and Docker, reducing deployment time from 45 min to 8 min.",
+                "Collaborated with product and design teams in weekly sprint cycles to ship 15+ features over 12 months."
+            ],
+            "tags": [
+                "fullstack",
+                "startup",
+                "saas",
+                "devops"
+            ]
+        }
+    ],
+    "projects": {
+        "section_title": "Projects",
+        "items": [
+            {
+                "title": "httpbench (Open Source CLI Tool)",
+                "description": "Go-based HTTP benchmarking CLI with concurrent workers, latency histograms, and percentile reporting. 800+ GitHub stars."
+            },
+            {
+                "title": "react-table-kit (Component Library)",
+                "description": "Published npm package for accessible, sortable, and filterable data tables in React. 2K+ weekly downloads."
+            },
+            {
+                "title": "MediSync (Hackathon — 1st Place, CalHacks 2021)",
+                "description": "Real-time patient triage system using WebSockets and ML-based priority scoring. Built in 36 hours with a team of 4."
+            }
+        ]
+    },
+    "skills": {
+        "Languages": [
+            "TypeScript",
+            "Go",
+            "Python",
+            "SQL",
+            "Java",
+            "Rust (learning)"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "GraphQL",
+            "Storybook",
+            "Playwright"
+        ],
+        "Backend & Infrastructure": [
+            "Node.js",
+            "PostgreSQL",
+            "Redis",
+            "Kafka",
+            "gRPC",
+            "REST API Design"
+        ],
+        "DevOps & Cloud": [
+            "AWS (ECS/Lambda/S3)",
+            "Docker",
+            "Kubernetes",
+            "GitHub Actions",
+            "Terraform",
+            "Datadog"
+        ],
+        "Practices": [
+            "System Design",
+            "Code Review",
+            "Agile/Scrum",
+            "TDD",
+            "Observability",
+            "Technical Writing"
+        ]
+    }
+}

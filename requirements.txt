@@ -1,0 +1,2 @@
+# PDF Generation Rendering Engine
+weasyprint>=66.0

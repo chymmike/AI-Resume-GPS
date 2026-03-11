@@ -1,0 +1,145 @@
+{
+    "personal": {
+        "name_zh": "示範用",
+        "name_en": "Mike Chen",
+        "title": "Full-Stack Software Engineer | Distributed Systems | Cloud Infrastructure",
+        "summary": "Software Engineer with 3+ years of experience building scalable web applications and distributed systems. Proven track record in payment processing at Stripe (50K+ req/sec, 99.99% uptime), full-stack SaaS development, and open source contributions. Skilled in Go, TypeScript, React, and cloud-native architecture.",
+        "location": "San Francisco, CA",
+        "email": "mikechen@example.com",
+        "phone": "+1 (415) 555-0192",
+        "website": "chymmike.com",
+        "linkedin": "https://www.linkedin.com/",
+        "github": "https://github.com/chymmike"
+    },
+    "education": [
+        {
+            "school": "Georgia Institute of Technology",
+            "degree": "M.S. in Computer Science (Online)",
+            "period": "2022 – 2024",
+            "highlights": [
+                "Specialization in Computing Systems",
+                "GPA 3.9/4.0"
+            ]
+        },
+        {
+            "school": "University of California, Berkeley",
+            "degree": "B.S. in Computer Science",
+            "period": "2017 – 2021",
+            "highlights": [
+                "Dean's List",
+                "Teaching Assistant for CS 61B (Data Structures)"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Stripe",
+            "title": "Software Engineer",
+            "period": "2023/01 – Present",
+            "bullets": [
+                "Architected and maintained high-throughput payment processing microservices in Go, handling 50K+ requests/sec with 99.99% uptime SLA across multi-region deployments.",
+                "Led migration of monolithic billing service to event-driven architecture using Kafka and gRPC, reducing P99 latency by 40% and enabling independent team deployments.",
+                "Built real-time transaction monitoring dashboard with React/TypeScript and WebSocket streaming, adopted by 200+ engineers for incident response.",
+                "Mentored 3 junior engineers through structured onboarding program and weekly code review sessions."
+            ],
+            "tags": [
+                "backend",
+                "distributed-systems",
+                "payments",
+                "mentoring"
+            ]
+        },
+        {
+            "company": "Shopify",
+            "title": "Software Engineer Intern",
+            "period": "2022/05 – 2022/08",
+            "bullets": [
+                "Developed GraphQL API layer for merchant analytics platform, achieving 3x query performance improvement over legacy REST endpoints through optimized resolver patterns.",
+                "Implemented multi-tier caching strategy with Redis, reducing peak-hour database load by 35% and improving dashboard load time from 2.4s to 0.8s.",
+                "Shipped A/B test features on checkout optimization team that increased merchant conversion rate by 2.1%, impacting $50M+ in GMV."
+            ],
+            "tags": [
+                "fullstack",
+                "graphql",
+                "e-commerce",
+                "intern"
+            ]
+        },
+        {
+            "company": "DataNova",
+            "title": "Full-Stack Developer",
+            "period": "2021/01 – 2022/04",
+            "bullets": [
+                "Built customer-facing SaaS analytics dashboard from scratch using Next.js and PostgreSQL, growing to 5K+ monthly active users within 8 months of launch.",
+                "Designed RESTful APIs with Node.js/Express handling 10K+ daily calls with <200ms P95 response time; implemented rate limiting and JWT-based auth.",
+                "Established CI/CD pipelines with GitHub Actions and Docker, reducing deployment cycle from 45 min to 8 min and achieving zero-downtime deployments.",
+                "Collaborated with product and design in weekly sprints, shipping 15+ features across 12 months while maintaining 95%+ test coverage."
+            ],
+            "tags": [
+                "fullstack",
+                "startup",
+                "saas",
+                "devops"
+            ]
+        }
+    ],
+    "projects": {
+        "section_title": "Projects",
+        "items": [
+            {
+                "title": "httpbench (Open Source CLI Tool)",
+                "description": "Go-based HTTP benchmarking CLI with concurrent workers, latency histograms, and percentile reporting. 800+ GitHub stars."
+            },
+            {
+                "title": "react-table-kit (Component Library)",
+                "description": "Published npm package for accessible, sortable, and filterable data tables in React. 2K+ weekly downloads."
+            },
+            {
+                "title": "MediSync (Hackathon — 1st Place, CalHacks 2021)",
+                "description": "Real-time patient triage system using WebSockets and ML-based priority scoring. Built in 36 hours with a team of 4."
+            }
+        ]
+    },
+    "skills": {
+        "Languages": [
+            "TypeScript",
+            "Go",
+            "Python",
+            "SQL",
+            "Java",
+            "Rust (learning)"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "GraphQL",
+            "Storybook",
+            "Playwright"
+        ],
+        "Backend & Infrastructure": [
+            "Node.js",
+            "PostgreSQL",
+            "Redis",
+            "Kafka",
+            "gRPC",
+            "REST API Design"
+        ],
+        "DevOps & Cloud": [
+            "AWS (ECS/Lambda/S3)",
+            "Docker",
+            "Kubernetes",
+            "GitHub Actions",
+            "Terraform",
+            "Datadog"
+        ],
+        "Practices": [
+            "System Design",
+            "Code Review",
+            "Agile/Scrum",
+            "TDD",
+            "Observability",
+            "Technical Writing"
+        ]
+    }
+}
