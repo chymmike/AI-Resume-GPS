@@ -5,6 +5,15 @@
 
 這是一個 Python 履歷生成工具，核心特色是 **AI 協作工作流系統**，幫助求職者精準針對企業 ATS 篩選機制、主動規避求職 Risk Signal。
 
+## 範例預覽
+
+以下是由本工具生成的**示範用**履歷 PDF：
+
+- 📄 [通用版本 (Software Engineer)](docs/Resume_Mike_Chen.pdf)
+- 📄 [客製版本 (Product Manager)](docs/Resume_Mike_Chen_Corp_PM.pdf)
+
+*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用)*
+
 ## 功能特色
 
 - **JSON 資料模組化** — 個人資料與呈現完全分離
