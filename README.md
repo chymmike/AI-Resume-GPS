@@ -11,15 +11,19 @@
 
 ### 通用版本 (Software Engineer)
 
-![通用版本預覽](docs/Resume_Mike_Chen.png)
-*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)*
+<p align="center">
+  <img src="docs/Resume_Mike_Chen.png" width="800" alt="通用版本預覽" style="border: 1px solid #ddd; border-radius: 4px;" />
+</p>
+<p align="center"><i>(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)</i></p>
 
 ---
 
 ### 客製版本 (Product Manager)
 
-![客製版本預覽](docs/Resume_Mike_Chen_Corp_PM.png)
-*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)*
+<p align="center">
+  <img src="docs/Resume_Mike_Chen_Corp_PM.png" width="800" alt="客製版本預覽" style="border: 1px solid #ddd; border-radius: 4px;" />
+</p>
+<p align="center"><i>(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)</i></p>
 
 ## 功能特色
 
