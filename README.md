@@ -12,14 +12,14 @@
 ### 通用版本 (Software Engineer)
 
 ![通用版本預覽](docs/Resume_Mike_Chen.png)
-*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。[[下載 PDF](docs/Resume_Mike_Chen.pdf)])*
+*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)*
 
 ---
 
 ### 客製版本 (Product Manager)
 
 ![客製版本預覽](docs/Resume_Mike_Chen_Corp_PM.png)
-*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。[[下載 PDF](docs/Resume_Mike_Chen_Corp_PM.pdf)])*
+*(註：以上範例資料皆為虛構，僅供展示排版與內容架構使用。)*
 
 ## 功能特色
 
